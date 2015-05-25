@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="CircularGraph">
+        <attr name="titleText" format="string" />
+        <attr name="subtitleText" format="string" />
+        <attr name="titleSize" format="dimension" />
+        <attr name="subtitleSize" format="dimension" />
+    </declare-styleable>
+</resources>
